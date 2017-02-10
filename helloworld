@@ -2,5 +2,6 @@ hello world
 clc
 clear all
 %10/02/2017
-%point is to have a panda free cod
-why do we need this?
+%point is to have a panda proof cod
+
+print('I am going to pet a panda and I will make him my bitch')
